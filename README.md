@@ -14,9 +14,8 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para entrar em contato, segue o link do meu LinkdIn!
  
 <div> 
- 
   <a href="https://www.linkedin.com/in/renan-b-v" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
